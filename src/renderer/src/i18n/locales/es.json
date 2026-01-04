@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "app": {
+      "title": "Assent Dashboard",
+      "welcome": "Bienvenido a Assent",
+      "subtitle": "Dashboard Profesional",
+      "description": "Plantilla profesional potenciada con Electron, React, TypeScript y Tailwind CSS. Diseñada para ser rápida, moderna y completamente personalizable."
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "analytics": "Analíticas",
+      "customers": "Clientes",
+      "settings": "Configuración",
+      "theme": "Tema",
+      "language": "Idioma",
+      "logout": "Cerrar Sesión",
+      "user": "Usuario",
+      "admin": "Administrador"
+    },
+    "dashboard": {
+      "clicks": "Clicks",
+      "test_ipc": "Probar IPC",
+      "modern_ts": "TypeScript Moderno",
+      "modern_ts_desc": "Tipado estático robusto y configuración estricta para un código más seguro y mantenible.",
+      "ui_ux": "Diseño UI/UX",
+      "ui_ux_desc": "Componentes hermosos basados en shadcn/ui con soporte completo para temas oscuros.",
+      "dev_exp": "Experiencia de Desarrollo",
+      "dev_exp_desc": "Hot Reloading instantáneo, alias de rutas y una estructura de proyecto escalable.",
+      "components_gallery": "Galería de Componentes"
+    },
+    "analytics": {
+      "title": "Analíticas",
+      "overview": "Resumen General",
+      "revenue": "Ingresos",
+      "users": "Usuarios Activos",
+      "sales": "Ventas",
+      "growth": "Crecimiento"
+    },
+    "customers": {
+      "title": "Clientes",
+      "list": "Lista de Clientes",
+      "add_new": "Añadir Nuevo",
+      "name": "Nombre",
+      "email": "Correo",
+      "status": "Estado",
+      "active": "Activo",
+      "inactive": "Inactivo"
+    },
+    "settings": {
+      "title": "Configuración",
+      "general": "General",
+      "profile": "Perfil",
+      "notifications": "Notificaciones",
+      "appearance": "Apariencia",
+      "language_select": "Seleccionar Idioma",
+      "theme_select": "Seleccionar Tema"
+    }
+  }
+}
