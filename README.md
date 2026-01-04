@@ -37,6 +37,10 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="resources/programa.png" alt="Assent Dashboard Preview" width="800" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
+</div>
+
 <br />
 
 > **Assent Dashboard** es una aplicación de escritorio multiplataforma diseñada para ofrecer una experiencia de usuario excepcional. Construida con las últimas tecnologías web y nativas, combina la potencia de Electron con la flexibilidad de React y la belleza de Tailwind CSS.
