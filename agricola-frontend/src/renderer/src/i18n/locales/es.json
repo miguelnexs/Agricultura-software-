@@ -1,0 +1,60 @@
+{
+  "translation": {
+    "app": {
+      "title": "La Hacienda • Gestión de Finca Colombiana",
+      "welcome": "Hacienda El Cafetal",
+      "subtitle": "Corazón del Paisaje Cultural Cafetero y Agrícola",
+      "description": "Sistema de administración campesina y agropecuaria inspirado en nuestras montañas, cafetales, guaduales y tradiciones del campo colombiano."
+    },
+    "sidebar": {
+      "dashboard": "Mi Finca",
+      "lotes": "Lotes y Cultivos",
+      "analytics": "Cosecha y Trapiche",
+      "customers": "Jornaleros y Aliados",
+      "settings": "Casa Principal",
+      "theme": "Ambiente",
+      "language": "Idioma",
+      "logout": "Cerrar Portón",
+      "user": "Mayordomo",
+      "admin": "Patrón de Finca"
+    },
+    "dashboard": {
+      "clicks": "Arrobas Pesadas Hoy",
+      "test_ipc": "Toque de Campana (IPC)",
+      "modern_ts": "Tierra Fértil y Sombra",
+      "modern_ts_desc": "Suelos volcánicos de cordillera acompañados de guamos, nogales cafeteros y guaduales protectores de agua.",
+      "ui_ux": "Tradición Cafetera",
+      "ui_ux_desc": "Recolección manual grano a grano de café cereza maduro, beneficio ecológico y secado al sol en marquesina.",
+      "dev_exp": "Diversidad de Cultivos",
+      "dev_exp_desc": "Policultivo sostenible con plátano dominico hartón, aguacate Hass, caña panelera y cítricos de la vereda.",
+      "components_gallery": "Herramientas del Corredor y Despensa"
+    },
+    "analytics": {
+      "title": "Producción, Cosecha y Ventas",
+      "overview": "Balance de la Cosecha Actual",
+      "revenue": "Ventas en Cooperativa",
+      "users": "Jornales Activos",
+      "sales": "Café Pergamino Seco",
+      "growth": "Rendimiento por Hectárea"
+    },
+    "customers": {
+      "title": "Jornaleros, Cuadrillas y Compradores",
+      "list": "Directorio de la Vereda y Aliados Comerciales",
+      "add_new": "Registrar en Libreta",
+      "name": "Nombre / Organización",
+      "email": "Contacto / Vereda",
+      "status": "Estado en Finca",
+      "active": "En Labor",
+      "inactive": "Descanso / Cosecha"
+    },
+    "settings": {
+      "title": "Casa Principal • Configuración de la Finca",
+      "general": "Datos de la Hacienda y Vereda",
+      "profile": "Perfil del Mayordomo",
+      "notifications": "Alertas de Clima y Cosecha",
+      "appearance": "Apariencia del Corredor",
+      "language_select": "Idioma de la Aplicación",
+      "theme_select": "Ambiente Visual"
+    }
+  }
+}

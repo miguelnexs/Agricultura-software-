@@ -1,0 +1,60 @@
+{
+  "translation": {
+    "app": {
+      "title": "La Hacienda • Colombian Farm Management",
+      "welcome": "Hacienda El Cafetal",
+      "subtitle": "Heart of the Colombian Coffee & Agricultural Landscape",
+      "description": "Rural and agricultural management system inspired by our Andean mountains, coffee plantations, bamboo groves, and Colombian countryside traditions."
+    },
+    "sidebar": {
+      "dashboard": "My Farm",
+      "lotes": "Plots & Crops",
+      "analytics": "Harvest & Mill",
+      "customers": "Workers & Buyers",
+      "settings": "Main Farmhouse",
+      "theme": "Ambiance",
+      "language": "Language",
+      "logout": "Close Farm Gate",
+      "user": "Farm Steward",
+      "admin": "Farm Owner"
+    },
+    "dashboard": {
+      "clicks": "Arrobas Weighed Today",
+      "test_ipc": "Ring Farm Bell (IPC)",
+      "modern_ts": "Fertile Volcanic Soil",
+      "modern_ts_desc": "Andean mountain soils shaded by native Inga trees, walnut timber, and water-preserving bamboo groves.",
+      "ui_ux": "Coffee Heritage",
+      "ui_ux_desc": "Hand-picked ripe coffee cherries, eco-washed processing, and sun-drying in traditional parabolic canopies.",
+      "dev_exp": "Crop Biodiversity",
+      "dev_exp_desc": "Sustainable intercropping with Hartón plantain, Hass avocado, panela sugarcane, and mountain citrus.",
+      "components_gallery": "Farmhouse Corridor & Tools"
+    },
+    "analytics": {
+      "title": "Production, Harvest & Cooperative Sales",
+      "overview": "Current Harvest Balance",
+      "revenue": "Cooperative Revenue",
+      "users": "Active Field Hands",
+      "sales": "Dry Parchment Coffee",
+      "growth": "Yield per Hectare"
+    },
+    "customers": {
+      "title": "Field Workers, Crews & Buyers",
+      "list": "Rural Community & Cooperative Directory",
+      "add_new": "Add to Ledger",
+      "name": "Name / Cooperative",
+      "email": "Contact / Village",
+      "status": "Field Status",
+      "active": "Active in Field",
+      "inactive": "Off-Season / Rest"
+    },
+    "settings": {
+      "title": "Main Farmhouse • Farm Settings",
+      "general": "Hacienda & Village Details",
+      "profile": "Steward Profile",
+      "notifications": "Weather & Harvest Alerts",
+      "appearance": "Corridor Appearance",
+      "language_select": "Application Language",
+      "theme_select": "Visual Ambiance"
+    }
+  }
+}

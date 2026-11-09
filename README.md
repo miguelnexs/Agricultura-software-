@@ -1,144 +1,123 @@
-<div align="center">
-  <img src="src/renderer/src/assets/logo.png" alt="Assent Dashboard Logo" width="120" height="120" />
-  
-  # Assent Dashboard
+# 🌱 AgroConexión • Red Agro-Logística Rural Colombiana 🇨🇴
 
-  <p>
-    <strong>Una solución de gestión empresarial moderna, rápida y elegante.</strong>
-  </p>
-
-  <p>
-    <a href="https://github.com/miguelnexs/Assent/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/miguelnexs/Assent?style=flat-square&color=blue" alt="Contributors" />
-    </a>
-    <a href="">
-      <img src="https://img.shields.io/github/last-commit/miguelnexs/Assent?style=flat-square&color=green" alt="Last Update" />
-    </a>
-    <a href="https://github.com/miguelnexs/Assent/network/members">
-      <img src="https://img.shields.io/github/forks/miguelnexs/Assent?style=flat-square" alt="Forks" />
-    </a>
-    <a href="https://github.com/miguelnexs/Assent/stargazers">
-      <img src="https://img.shields.io/github/stars/miguelnexs/Assent?style=flat-square&color=yellow" alt="Stars" />
-    </a>
-    <a href="https://github.com/miguelnexs/Assent/issues">
-      <img src="https://img.shields.io/github/issues/miguelnexs/Assent?style=flat-square&color=red" alt="Issues" />
-    </a>
-    <a href="https://github.com/miguelnexs/Assent/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/miguelnexs/Assent?style=flat-square" alt="License" />
-    </a>
-  </p>
-
-  <p>
-    <a href="#características">Características</a> •
-    <a href="#instalación">Instalación</a> •
-    <a href="#uso">Uso</a> •
-    <a href="#tecnologías">Tecnologías</a> •
-    <a href="#contribuir">Contribuir</a>
-  </p>
-</div>
-
-<div align="center">
-  <img src="resources/programa.png" alt="Assent Dashboard Preview" width="800" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
-</div>
-
-<br />
-
-> **Assent Dashboard** es una aplicación de escritorio multiplataforma diseñada para ofrecer una experiencia de usuario excepcional. Construida con las últimas tecnologías web y nativas, combina la potencia de Electron con la flexibilidad de React y la belleza de Tailwind CSS.
-
-## ✨ Características
-
-- 🎨 **Interfaz Moderna y Minimalista**: Diseño limpio utilizando `shadcn/ui` y componentes personalizados.
-- 🌓 **Modo Oscuro/Claro**: Soporte nativo para cambio de tema con persistencia.
-- 🪟 **Diseño Frameless**: Barra de título personalizada totalmente integrada con controles de ventana nativos.
-- ⚡ **Alto Rendimiento**: Optimizada con Vite para tiempos de carga instantáneos.
-- 🖥️ **Multiplataforma**: Compatible con Windows, macOS y Linux.
-- 🔒 **Seguridad**: Implementación segura de IPC (Inter-Process Communication) y Context Isolation.
-
-## 🛠️ Tecnologías
-
-Este proyecto está construido sobre un stack robusto y moderno:
-
-<div align="center">
-
-| Tecnología | Descripción |
-| :---: | :--- |
-| <img src="https://skillicons.dev/icons?i=electron" width="40" /> | **Electron** - Runtime para aplicaciones de escritorio |
-| <img src="https://skillicons.dev/icons?i=react" width="40" /> | **React** - Librería para interfaces de usuario |
-| <img src="https://skillicons.dev/icons?i=ts" width="40" /> | **TypeScript** - Tipado estático para JavaScript |
-| <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> | **Tailwind CSS** - Framework de utilidades CSS |
-| <img src="https://skillicons.dev/icons?i=vite" width="40" /> | **Vite** - Herramienta de construcción ultrarrápida |
-
-</div>
-
-## 🚀 Instalación
-
-Sigue estos pasos para configurar el proyecto en tu máquina local.
-
-### Prerrequisitos
-
-Asegúrate de tener instalado:
-*   [Node.js](https://nodejs.org/) (versión 16 o superior)
-*   [Git](https://git-scm.com/)
-
-### Pasos
-
-1.  **Clonar el repositorio**
-    ```bash
-    git clone https://github.com/miguelnexs/Assent.git
-    cd Assent
-    ```
-
-2.  **Instalar dependencias**
-    ```bash
-    npm install
-    ```
-
-3.  **Iniciar en modo desarrollo**
-    ```bash
-    npm run dev
-    ```
-
-## 📦 Construcción (Build)
-
-Para generar el ejecutable para tu sistema operativo:
-
-```bash
-npm run build
-```
-
-Los archivos generados se encontrarán en la carpeta `dist`.
-
-## 📂 Estructura del Proyecto
-
-```bash
-Assent/
-├── 📁 src/
-│   ├── 📁 main/        # Proceso principal de Electron
-│   ├── 📁 preload/     # Scripts de precarga y puente seguro
-│   └── 📁 renderer/    # Aplicación React (Frontend)
-│       ├── 📁 assets/  # Imágenes y recursos estáticos
-│       ├── 📁 components/ # Componentes UI reutilizables
-│       └── 📁 layouts/ # Estructuras de página
-├── 📁 resources/       # Iconos y recursos del sistema
-└── 📄 electron-builder.yml # Configuración del instalador
-```
-
-## 🤝 Contribuir
-
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar Assent Dashboard:
-
-1.  Haz un Fork del proyecto.
-2.  Crea una rama para tu característica (`git checkout -b feature/AmazingFeature`).
-3.  Haz Commit de tus cambios (`git commit -m 'Add some AmazingFeature'`).
-4.  Haz Push a la rama (`git push origin feature/AmazingFeature`).
-5.  Abre un Pull Request.
-
-## 📄 Licencia
-
-Distribuido bajo la licencia MIT.
+> **Plataforma Integral de Conexión Directa Campesino-Consumidor, Logística Colaborativa Rural ("El Uber del Campo") y Bolsa de Precios Agropecuarios.**
 
 ---
 
-<div align="center">
-  Hecho con ❤️ por <a href="https://github.com/miguelnexs">Miguel</a>
-</div>
+## 📖 Visión del Proyecto
+En Colombia, la intermediación tradicional absorbe entre el 70% y el 80% del valor de los alimentos, mientras el campesino asume todos los riesgos climáticos y la merma poscosecha. 
+
+**AgroConexión** elimina las capas especulativas y resuelve el cuello de botella del transporte veredal conectando directamente a:
+1. **Campesinos Productores** (Veredas del Eje Cafetero y cordillera andina).
+2. **Comercios, Restaurantes (B2B)** y **Familias / Grupos Comunitarios (B2C)**.
+3. **Transportadores Locales** en Jeep Willys (Yipao), camionetas de estacas 4x4 y camiones.
+
+---
+
+## 🏛️ Los Pilares Estratégicos del Negocio
+
+### 🤖 Pilar A: WhatsApp Bot + IA para el Productor Rural
+- **Cero Curva de Aprendizaje:** En el campo no hay señal 4G estable para formularios complejos. El campesino envía una **nota de voz por WhatsApp**.
+- **IA de Extracción de Entidades:** Transcribe el audio veredal, identifica producto, cantidad y vereda.
+- **Venta Pre-Cosecha (a 3 - 7 días):** El campesino solo corta la cosecha cuando el pedido ya está pagado en custodia (Escrow), logrando **0% merma**.
+
+### 🏢 Pilar B: Centralización de Demanda B2B
+- **Restaurantes y Comercios:** Compran por bulto/canastilla con 15% a 25% de ahorro frente a mayoristas tradicionales.
+- **Facturación Electrónica Unificada DIAN:** Un restaurante recibe **1 sola factura electrónica** consolidada con código CUFE y QR, aunque los productos provengan de 8 fincas diferentes.
+
+### 🚙 Pilar C: AgroFlete Rural ("El Uber del Campo")
+- **Consolidación Milk-Run:** Agrupación de carga de 3 a 4 fincas cercanas para pagar un flete compartido de solo **$35.000 COP** por comercio.
+- **Fletes de Retorno (Backhauling):** Monetización de vehículos que regresan vacíos de la ciudad a la vereda con un **30% de descuento**.
+- **Flota Veredal Adaptada:** Jeep Willys tradicionales, Toyota Hilux 4x4 y Motocarros de carga.
+
+### 🛡️ Blindaje Antifraude Escrow en 4 Pasos
+1. **Retención en Custodia:** El comprador paga por adelantado; el dinero queda congelado en escrow.
+2. **Asignación de Conductor Veredal:** Un vehículo local acepta la ruta y sube a la finca.
+3. **Inspección en Finca & Pago Inmediato:** Al verificar y cargar la cosecha, la plataforma desembolsa el dinero automáticamente a **Nequi o Daviplata** del campesino.
+4. **Validación QR al Entregar:** El comprador escanea el código QR de entrega y se liquida el flete al transportador.
+
+### 📈 Pizarra de Precios de Trading en Tiempo Real
+- Cotizaciones oficiales basadas en **SIPSA / DANE / Corabastos**.
+- Desglose transparente de la cadena de valor: **Precio en Finca vs. Central Mayorista vs. Supermercado**.
+- Monitoreo en vivo de Papa Pastusa, Tomate Chonto, Aguacate Hass, Café Pergamino, Plátano Hartón, Cebolla Junca, etc.
+
+---
+
+## 📂 Arquitectura del Repositorio
+
+El proyecto está estructurado como un monorepo que contiene tanto la versión de escritorio como la versión móvil:
+
+```
+Proyecto agricola/
+├── agricola-frontend/      # 🖥️ Aplicación de Escritorio (Electron + Vite + React + Tailwind)
+│   ├── src/main/          # Proceso Principal de Electron (Ventana maximizada, IPC)
+│   ├── src/preload/       # Puente seguro IPC
+│   └── src/renderer/      # Aplicación React 18:
+│       ├── pages/         # MercadoCampesino, WhatsAppBot, PizarraPrecios, AgroFlete, UnitEconomics, etc.
+│       ├── components/    # Sidebar colapsable, TitleBar nativo, UI components
+│       └── layouts/       # MainLayout fluido y adaptado
+│
+├── Agricola-movil/        # 📱 Aplicación Móvil (React Native + Expo Router + Lucide)
+│   ├── app/(tabs)/        # Pestañas móviles: Mercado, AgroFlete, Precios, Bot IA, Mi Finca
+│   ├── app/details.tsx    # Pantalla de checkout con trazabilidad Escrow
+│   ├── components/        # ZocaloBorder colombiano, botones y tarjetas nativas
+│   └── constants/         # Paleta campirana: Amanecer en la Cordillera / Noche en el Cafetal
+│
+└── README.md              # Documentación del sistema
+```
+
+---
+
+## 🚀 Puesta en Marcha
+
+### Requisitos Previos
+- **Node.js**: v18 o superior (v20+ recomendado)
+- **npm** o **yarn**
+
+---
+
+### 1. Aplicación de Escritorio (`agricola-frontend`)
+```bash
+# Ingresar al directorio
+cd agricola-frontend
+
+# Instalar dependencias
+npm install
+
+# Iniciar en modo desarrollo (Electron + Hot Reload)
+npm run dev
+
+# Compilar instalador ejecutable
+npm run build
+```
+
+---
+
+### 2. Aplicación Móvil (`Agricola-movil`)
+```bash
+# Ingresar al directorio
+cd Agricola-movil
+
+# Instalar dependencias
+npm install
+
+# Iniciar servidor Expo (Web / Metro)
+npx expo start --web
+
+# Para probar en dispositivo físico:
+# Escanea el código QR generado en la terminal con la app "Expo Go" (Android/iOS)
+```
+
+---
+
+## 🎨 Identidad Visual y Cultural
+Diseñado con los colores autóctonos del Paisaje Cultural Cafetero Colombiano:
+- **Verde Cafetal / Esmeralda Andina:** `#15803d` / `#166534`
+- **Terracota / Sol de los Venados:** `#b45309` / `#d97706`
+- **Arena de Guadua y Bahareque:** `#faf7f2` / `#f5ede0`
+- **Franja Zócalo Colombiano:** Guardapolvo artesanal en verde, mostaza, bermellón y azul montaña.
+
+---
+
+## 📄 Licencia
+Este proyecto está desarrollado bajo la visión de dignificar el campo colombiano y asegurar precios justos para nuestros agricultores.
